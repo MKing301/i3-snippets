@@ -1,4 +1,4 @@
-#i3-snippets
+# i3 Snippets
 
 ## Useful Notes
 
