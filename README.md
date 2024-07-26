@@ -2,6 +2,10 @@
 
 ## Useful Notes
 
+### Move windor to another workspace
+
+$mod+Shift+num
+
 ### Move workspaces between monitors
 
 $mod+Ctrl+greater move workspace to output right
